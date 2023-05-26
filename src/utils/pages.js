@@ -11,7 +11,7 @@ pages.set('bookings', {
 pages.set('confirmedBooking', { 
   name: 'Confirmed Booking', 
   path: '/confirmed-booking', 
-  anchorable: false 
+  anchorable: false
 });
 pages.set('orderOnline', { 
   name: 'Order Online', 
